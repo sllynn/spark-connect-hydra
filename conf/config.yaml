@@ -1,0 +1,4 @@
+data:
+  catalog: stuart
+  schema: mosaic
+  table: ais_bronze
